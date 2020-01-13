@@ -1,0 +1,26 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"BackShadow","bone":"root","attachment":"BackShadow"},
+	{"name":"BackLeftLeg","bone":"root","attachment":"BackLeftLeg"},
+	{"name":"BackRightLeg","bone":"root","attachment":"BackRightLeg"},
+	{"name":"BackLeftArm","bone":"root","attachment":"BackLeftArm"},
+	{"name":"BackRightArm","bone":"root","attachment":"BackRightArm"},
+	{"name":"BackBody","bone":"root","attachment":"BackBody"},
+	{"name":"BackHead","bone":"root","attachment":"BackHead"},
+	{"name":"BackBag","bone":"root","attachment":"BackBag"}
+],
+"skins":{
+	"default":{
+		"BackBag":{"BackBag":{"x":528.5,"y":202,"width":129,"height":116}},
+		"BackHead":{"BackHead":{"x":528.5,"y":307.5,"width":279,"height":215}},
+		"BackBody":{"BackBody":{"x":529,"y":180.5,"width":142,"height":99}},
+		"BackRightArm":{"BackRightArm":{"x":563,"y":203.5,"width":82,"height":49}},
+		"BackLeftArm":{"BackLeftArm":{"x":494.5,"y":203.5,"width":83,"height":49}},
+		"BackRightLeg":{"BackRightLeg":{"x":574,"y":136,"width":58,"height":70}},
+		"BackLeftLeg":{"BackLeftLeg":{"x":487,"y":136,"width":58,"height":70}},
+		"BackShadow":{"BackShadow":{"x":531.5,"y":116,"width":153,"height":82}}
+	}
+},
+"animations":{"animation":{}}
+}

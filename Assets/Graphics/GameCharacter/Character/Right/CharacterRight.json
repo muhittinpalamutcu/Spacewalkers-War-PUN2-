@@ -1,0 +1,28 @@
+{"skeleton":{"images":""},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"RightShadow","bone":"root","attachment":"RightShadow"},
+	{"name":"RightLeg1","bone":"root","attachment":"RightLeg1"},
+	{"name":"RightBody","bone":"root","attachment":"RightBody"},
+	{"name":"RightWeapon","bone":"root","attachment":"RightWeapon"},
+	{"name":"RightArm1","bone":"root","attachment":"RightArm1"},
+	{"name":"RightArm2","bone":"root","attachment":"RightArm2"},
+	{"name":"RightBag","bone":"root","attachment":"RightBag"},
+	{"name":"RightHead","bone":"root","attachment":"RightHead"},
+	{"name":"RightLeg2","bone":"root","attachment":"RightLeg2"}
+],
+"skins":{
+	"default":{
+		"RightLeg2":{"RightLeg2":{"x":1140,"y":129.5,"width":54,"height":59}},
+		"RightHead":{"RightHead":{"x":1135,"y":307.5,"width":266,"height":215}},
+		"RightBag":{"RightBag":{"x":1072,"y":183.5,"width":72,"height":93}},
+		"RightArm2":{"RightArm2":{"x":1162,"y":187.5,"width":80,"height":59}},
+		"RightArm1":{"RightArm1":{"x":1225,"y":167,"width":36,"height":30}},
+		"RightWeapon":{"RightWeapon":{"x":1217.5,"y":183,"width":101,"height":44}},
+		"RightBody":{"RightBody":{"x":1137,"y":178.5,"width":102,"height":117}},
+		"RightLeg1":{"RightLeg1":{"x":1140,"y":129.5,"width":54,"height":59}},
+		"RightShadow":{"RightShadow":{"x":1140.5,"y":116,"width":153,"height":82}}
+	}
+},
+"animations":{"animation":{}}
+}
